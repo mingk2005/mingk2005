@@ -1,11 +1,16 @@
-- 👋 明科補習班
-- 👀 國小數學 ✨ 國中數學 ✨ 國中英文 ✨ 國中國文 ✨ 國中自然 ✨ 高中數學 ✨ 高中物理  
-- 🌱 成立於2005年 ，在地經營大直地區 ，歷經多年努力 ，持續幫助學生考取優良成績與好學校 ，成為大直地區成績最好的補習班
-- 💞️ 02-25338966 、0933-910299
-- 📫 台北市中山區北安路458巷43號
-  <iframe src="https://maps.app.goo.gl/oCWAp6ofzPGRpxsNA" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+👋 明科補習班
+👀 國小數學 ✨ 國中數學 ✨ 國中英文 ✨ 國中國文 ✨ 國中自然 ✨ 高中數學 ✨ 高中物理  
+🌱 成立於2005年 ，在地經營大直地區 ，歷經多年努力 ，持續幫助學生考取優良成績與好學校 ，成為大直地區成績最好的補習班
+💞️ 02-25338966 、0933-910299
+📫 台北市中山區北安路458巷43號
 
-<!---
-mingk2005/mingk2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ 最佳師資陣容 
+- 數學科: 林清池 老師   台灣師範大學   數學系   畢業
+- 數學科: 林冠宏 老師   美國 GMU Data Analytics Engineering   大數據碩士   畢業
+- 數學科: 劉家禎 老師   國立交通大學     電子物理碩士   畢業 
+- 國文科: 施美全 老師   中興大學     法律系   畢業
+- 英文科: 曾紀侖 老師    台大   外文系    畢業 
+- 英文科: 陳志忠 老師    輔大  英 文系   畢業 
+- 英文科: 李    娜 老師    東 吳    英文系  畢業
+- 自然科: 張    元 老師    台 大  地質科學系碩士   畢業 
+- 社會科: 汪玉婷 老師   台灣師範大學   地理系    畢業
