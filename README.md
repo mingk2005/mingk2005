@@ -5,6 +5,7 @@
 📫 台北市中山區北安路458巷43號 <br> 
 
 🌐 明科 [網頁](https://mingker.webnode.tw/)
+🚀 明科 [instagram](https://www.instagram.com/mingk2005)
 🌟 明科 [Facebook](https://www.facebook.com/MingKer2005)
 🎬 明科  [YouTube](https://www.youtube.com/@MingKer2005)
 
