@@ -9,10 +9,6 @@
 🌟 明科 [Facebook](https://www.facebook.com/MingKer2005)
 🎬 明科  [YouTube](https://www.youtube.com/@MingKer2005)
 
-#  6 月 21 日 (六) 上午 10:30 ~ 11:30 家長說明會 🙆‍♀️🙆‍♂️🙋‍♀️🙋‍♂️
-
-# 平日課程說明時間 : 星期二、四、五  下午 7:00 ~ 8:30 👨‍👩‍👧‍👦
-
 ✨ 最佳師資陣容 
 - 數學科: 林清池 老師   台灣師範大學   數學系   畢業
 - 數學科: 林冠宏 老師   美國 GMU Data Analytics Engineering   大數據碩士   畢業
