@@ -17,13 +17,13 @@
 - 英文科: 陳志忠 老師    輔大  英 文系   畢業
 - 自然科: 張    元 老師    台 大  地質科學系碩士   畢業 
 
-7 年級 🔄 調課時間 <br>
+7 年級 🔄 調課時間 <br> 再次提醒
 ![image](./grade7changeTime.jpg)
 
-8 年級 🔄 調課時間 <br>
+8 年級 🔄 調課時間 <br> 再次提醒
 ![image](./grade8changeTime.jpg)
 
-9 年級 🔄 調課時間 <br>
+9 年級 🔄 調課時間 <br> 修改20250924
 ![image](./grade9changeTime.jpg)
 
 7 年級 📜 課程 🙆‍♀️🙆‍♂️🙋‍♀️🙋‍♂️
