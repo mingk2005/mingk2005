@@ -18,13 +18,13 @@
 - 自然科: 張    元 老師    台 大  地質科學系碩士   畢業 
 
 7 年級 🔄 時間 <br> 
-![image](./grade7time.jpg)
+![image](./grade7time.JPG)
 
 8 年級 🔄 時間 <br> 
-![image](./grade8time.jpg)
+![image](./grade8time.JPG)
 
 9 年級 🔄 時間 <br> 
-![image](./grade9time.jpg)
+![image](./grade9time.JPG)
 
 7 年級 📜 課程 🙆‍♀️🙆‍♂️🙋‍♀️🙋‍♂️
 
