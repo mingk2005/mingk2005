@@ -3,10 +3,10 @@
 📞 0933-910299 <br> 
 📫 台北市中山區 <br> 
 
-🌐 明科 [網頁](https://mingker.webnode.tw/)
-🚀 明科 [instagram](https://www.instagram.com/mingk2005)
-🌟 明科 [Facebook](https://www.facebook.com/MingKer2005)
-🎬 明科  [YouTube](https://www.youtube.com/@MingKer2005)
+🌐 [網頁](https://mingker.webnode.tw/)
+🚀 [instagram](https://www.instagram.com/mingk2005)
+🌟 [Facebook](https://www.facebook.com/MingKer2005)
+🎬 [YouTube](https://www.youtube.com/@MingKer2005)
 
 ✨ 最佳師資陣容 
 - 林清池 老師   台灣師範大學   數學系   畢業
